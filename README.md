@@ -2,7 +2,7 @@
 
 Title :
 
-# Facial Emotion Recognition
+# Facial Emotion Recognition :::::::
 
 ![](outputs/test.gif)
 
